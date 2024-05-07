@@ -7,7 +7,3 @@ This script is designed to remove Edge completely from a computer.
 ### Known Issue
 
 Tell me
-
-## Script Preview
-
-![](./assets/images/script.png)
